@@ -1,1 +1,1 @@
-![RUN](https://github.com/itakawa/siv3dkun/blob/master/untitled.png)
+![RUN](https://github.com/itakawa/siv3dkun/blob/master/siv3dkun.png)
