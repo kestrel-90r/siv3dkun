@@ -1,4 +1,4 @@
-# Blender MTL File: 'Siv3DKun2.blend'
+# Blender MTL File: 'None'
 # Material Count: 13
 
 newmtl ClawWhite
@@ -11,6 +11,17 @@ Ni 1.450000
 d 1.000000
 illum 3
 map_Kd Siv3DKun2.png
+
+newmtl Eyes
+Ns 231.666285
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Eye.png
 
 newmtl HairGray
 Ns 205.078356
@@ -44,17 +55,6 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd Siv3DKun2.png
-
-newmtl Material
-Ns 900.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 0.000000
-d 1.000000
-illum 1
-map_Kd Eye.png
 
 newmtl MouthRed
 Ns 225.000000
@@ -90,14 +90,15 @@ illum 1
 map_Kd Siv3DKun2.png
 
 newmtl TShirtsWhite
-Ns 225.000000
+Ns 900.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.450000
+Ni 0.000000
 d 1.000000
 illum 1
+map_Kd Siv3DKun2.png
 
 newmtl TonguePink
 Ns 225.000000
